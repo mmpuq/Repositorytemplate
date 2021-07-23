@@ -67,7 +67,7 @@
     "settings": {},
     "tag": "blocked"
   },
-],
+  ],
   "routing": {
     "rules": [
       {
